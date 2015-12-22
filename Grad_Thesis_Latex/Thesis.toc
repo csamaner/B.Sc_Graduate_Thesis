@@ -1,0 +1,34 @@
+\select@language {turkish}
+\contentsline {chapter}{\IeC {\"O}zet}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Te\IeC {\c s}ekk\IeC {\"u}r}{ii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{\IeC {\c S}ekil Listesi}{v}{dummy.4}
+\contentsline {chapter}{Tablo Listesi}{vi}{dummy.6}
+\contentsline {chapter}{K\IeC {\i }saltmalar}{vii}{dummy.8}
+\contentsline {chapter}{Fiziksel Sabitler}{viii}{dummy.11}
+\contentsline {chapter}{Semboller}{ix}{dummy.14}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Giri\IeC {\c s}}{1}{chapter.17}
+\contentsline {section}{\numberline {1.1}A Section}{1}{section.18}
+\contentsline {subsection}{\numberline {1.1.1}A Subsection}{1}{subsection.19}
+\contentsline {section}{\numberline {1.2}Another Section}{2}{section.20}
+\contentsline {chapter}{\numberline {2}Quantum Renk Dinami\IeC {\u g}inin Teorik Yap\IeC {\i }s\IeC {\i }}{3}{chapter.21}
+\contentsline {section}{\numberline {2.1}Quarklar}{3}{section.22}
+\contentsline {subsection}{\numberline {2.1.1}Quark Hapsi}{3}{subsection.23}
+\contentsline {subsubsection}{\numberline {2.1.1.1}QCD'deki Asimptotik \IeC {\"O}zg\IeC {\"u}rl\IeC {\"u}kten Kaynaklanan Zorluklar}{4}{subsubsection.24}
+\contentsline {subsection}{\numberline {2.1.2}QCD Lagranjyeni}{5}{subsection.25}
+\contentsline {chapter}{\numberline {3}CMS bilgisi}{6}{chapter.26}
+\contentsline {section}{\numberline {3.1}LHC (Large Hadron Collider)}{6}{section.27}
+\contentsline {subsection}{\numberline {3.1.1}CMS Dedekt\IeC {\"o}r\IeC {\"u}}{6}{subsection.28}
+\contentsline {subsection}{\numberline {3.1.2}Kinematik De\IeC {\u g}i\IeC {\c s}kenler}{7}{subsection.29}
+\contentsline {chapter}{\numberline {4}Monte Carlo Sim\IeC {\"u}lasyonu ve Data \IeC {\"U}retimi}{8}{chapter.30}
+\contentsline {section}{\numberline {4.1}MG5 ve Pythia Program\IeC {\i }nda Olay \IeC {\"U}retimi}{8}{section.31}
+\contentsline {subsection}{\numberline {4.1.1}Pythia8'de Hadronizasyon ve Parton Du\IeC {\c s}u}{8}{subsection.32}
+\contentsline {subsection}{\numberline {4.1.2}Jet'lerin Yeniden Yap\IeC {\i }land\IeC {\i }r\IeC {\i }lmas\IeC {\i }}{9}{subsection.33}
+\contentsline {subsection}{\numberline {4.1.3}Jet Algoritmalar\IeC {\i }}{10}{subsection.34}
+\contentsline {chapter}{\numberline {5}Datan\IeC {\i }n Do\IeC {\u g}rulanmas\IeC {\i }}{11}{chapter.35}
+\contentsline {chapter}{\numberline {6}Sonu\IeC {\c c}lar}{12}{chapter.36}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}varsa ek yaz\IeC {\i }l\IeC {\i }cak}{13}{appendix.37}
+\vspace {2em}
