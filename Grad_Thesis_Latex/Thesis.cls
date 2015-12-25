@@ -149,7 +149,7 @@
 \newcommand*{\FACULTY}[1]{\def\FACNAME{#1}}
 \newcommand*{\subject}[1]{\def\subjectname{#1}}
 \newcommand*{\keywords}[1]{\def\keywordnames{#1}}
-\supervisor  {\texorpdfstring{\href{University Web Site URL Here (include http://)}
+\supervisor  {\texorpdfstring{\href{http://nsonmez.web.cern.ch/nsonmez/nsonmez/Welcome.html}
                 {Dr. Nasuf SÖNMEZ}}
                 {Supervisor Name}}
 \examiner    {\texorpdfstring{\href{http://www.sci.ege.edu.tr/tr/index.php?option=com_content&view=article&id=18:prof-dr-nadide-kazanci&catid=9:fakulte-yonetim}

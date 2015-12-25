@@ -13,22 +13,31 @@
 \contentsline {section}{\numberline {1.1}A Section}{1}{section.18}
 \contentsline {subsection}{\numberline {1.1.1}A Subsection}{1}{subsection.19}
 \contentsline {section}{\numberline {1.2}Another Section}{2}{section.20}
-\contentsline {chapter}{\numberline {2}Quantum Renk Dinami\IeC {\u g}inin Teorik Yap\IeC {\i }s\IeC {\i }}{3}{chapter.21}
-\contentsline {section}{\numberline {2.1}Quarklar}{3}{section.22}
-\contentsline {subsection}{\numberline {2.1.1}Quark Hapsi}{3}{subsection.23}
-\contentsline {subsubsection}{\numberline {2.1.1.1}QCD'deki Asimptotik \IeC {\"O}zg\IeC {\"u}rl\IeC {\"u}kten Kaynaklanan Zorluklar}{4}{subsubsection.24}
-\contentsline {subsection}{\numberline {2.1.2}QCD Lagranjyeni}{5}{subsection.25}
-\contentsline {chapter}{\numberline {3}CMS bilgisi}{6}{chapter.26}
-\contentsline {section}{\numberline {3.1}LHC (Large Hadron Collider)}{6}{section.27}
-\contentsline {subsection}{\numberline {3.1.1}CMS Dedekt\IeC {\"o}r\IeC {\"u}}{6}{subsection.28}
-\contentsline {subsection}{\numberline {3.1.2}Kinematik De\IeC {\u g}i\IeC {\c s}kenler}{7}{subsection.29}
-\contentsline {chapter}{\numberline {4}Monte Carlo Sim\IeC {\"u}lasyonu ve Data \IeC {\"U}retimi}{8}{chapter.30}
-\contentsline {section}{\numberline {4.1}MG5 ve Pythia Program\IeC {\i }nda Olay \IeC {\"U}retimi}{8}{section.31}
-\contentsline {subsection}{\numberline {4.1.1}Pythia8'de Hadronizasyon ve Parton Du\IeC {\c s}u}{8}{subsection.32}
-\contentsline {subsection}{\numberline {4.1.2}Jet'lerin Yeniden Yap\IeC {\i }land\IeC {\i }r\IeC {\i }lmas\IeC {\i }}{9}{subsection.33}
-\contentsline {subsection}{\numberline {4.1.3}Jet Algoritmalar\IeC {\i }}{10}{subsection.34}
-\contentsline {chapter}{\numberline {5}Datan\IeC {\i }n Do\IeC {\u g}rulanmas\IeC {\i }}{11}{chapter.35}
-\contentsline {chapter}{\numberline {6}Sonu\IeC {\c c}lar}{12}{chapter.36}
+\contentsline {chapter}{\numberline {2}Kuantum Renk Dinami\IeC {\u g}i}{3}{chapter.21}
+\contentsline {section}{\numberline {2.1}Quarklar ve Gluonlar}{3}{section.22}
+\contentsline {subsection}{\numberline {2.1.1}Renk Hapsi}{3}{subsection.23}
+\contentsline {subsection}{\numberline {2.1.2}Asimptotik \IeC {\"O}zg\IeC {\"u}rl\IeC {\"u}k}{4}{subsection.24}
+\contentsline {section}{\numberline {2.2}KRD Lagranjyeni}{4}{section.25}
+\contentsline {section}{\numberline {2.3}Pert\IeC {\"u}rbativ KRD}{5}{section.26}
+\contentsline {subsection}{\numberline {2.3.1}Deneysel Test Edilebilirli\IeC {\u g}i}{6}{subsection.27}
+\contentsline {chapter}{\numberline {3}CMS Dedekt\IeC {\"o}r\IeC {\"u}}{7}{chapter.28}
+\contentsline {section}{\numberline {3.1}CMS Deneyinin Hedefleri}{7}{section.29}
+\contentsline {section}{\numberline {3.2}Dedekt\IeC {\"o}r\IeC {\"u}n Par\IeC {\c c}alar\IeC {\i }/Katmanlar\IeC {\i }}{7}{section.30}
+\contentsline {section}{\numberline {3.3}Dedekt\IeC {\"o}rdeki G\IeC {\"o}zlenebilirler}{8}{section.31}
+\contentsline {subsection}{\numberline {3.3.1}Leptonlar}{8}{subsection.32}
+\contentsline {subsection}{\numberline {3.3.2}Jetler}{9}{subsection.33}
+\contentsline {subsection}{\numberline {3.3.3}Kay\IeC {\i }p Enerji}{10}{subsection.34}
+\contentsline {section}{\numberline {3.4}Veri Ak\IeC {\i }\IeC {\c s}\IeC {\i }}{10}{section.35}
+\contentsline {chapter}{\numberline {4}Monte Carlo Sim\IeC {\"u}lasyonu}{11}{chapter.36}
+\contentsline {section}{\numberline {4.1}Veri \IeC {\"U}retimi}{11}{section.37}
+\contentsline {subsection}{\numberline {4.1.1}Parton Seviyesi Olay \IeC {\"U}retimi (Madgraph)}{11}{subsection.38}
+\contentsline {subsection}{\numberline {4.1.2}Parton Du\IeC {\c s}u ve Hadronizasyon (Pythia)}{12}{subsection.39}
+\contentsline {section}{\numberline {4.2}Veri Analizi}{12}{section.40}
+\contentsline {subsection}{\numberline {4.2.1}Jetlerin Yap\IeC {\i }land\IeC {\i }r\IeC {\i }lmas\IeC {\i } (Dedekt\IeC {\"o}r sim\IeC {\"u}lasyonu)}{13}{subsection.41}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Jet Algoritmalar\IeC {\i }}{14}{subsubsection.42}
+\contentsline {chapter}{\numberline {5}Sonu\IeC {\c c}lar}{15}{chapter.43}
+\contentsline {section}{\numberline {5.1}Verilerin Do\IeC {\u g}rulanmas\IeC {\i }}{15}{section.44}
+\contentsline {chapter}{\numberline {6}Sonu\IeC {\c c}lar\IeC {\i }n Yorumlanmas\IeC {\i }}{17}{chapter.45}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}varsa ek yaz\IeC {\i }l\IeC {\i }cak}{13}{appendix.37}
+\contentsline {chapter}{\numberline {A}varsa ek yaz\IeC {\i }l\IeC {\i }cak}{18}{appendix.46}
 \vspace {2em}
